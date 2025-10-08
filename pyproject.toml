@@ -1,0 +1,11 @@
+[project]
+name = "qr_generator"
+version = "0.1.0"
+description = "Simple QR code generator with a Tkinter GUI."
+authors = [{name = "Mobin You"}]
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
